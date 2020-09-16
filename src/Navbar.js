@@ -5,11 +5,11 @@ const Navbar = () => {
   return (
     <header
       css={css`
-        font-size: 1rem;
-        color: #edd8ac;
+        font-size: 1.5rem;
+        color: #0096bb;
         display: flex;
         align-items: center;
-        padding: 2em 2em 0 2em;
+        margin: 1em 1.5em;
       `}
     >
       <h1>Vocab</h1>
